@@ -518,7 +518,7 @@ eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpa
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n// Imports\n\n\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, `body {\n  margin: 0;\n}\n\n:root {\n  --card-size: 650px;\n}\n\n.card-container {\n  display: flex;\n  gap: 24px;\n  overflow: visible;\n  height: 100%;\n  background: linear-gradient(to right, beige 0%, beige 49%, saddlebrown 51%, saddlebrown 100%);\n}`, \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://react-app/./src/werewolf/Page.scss?./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js\n}");
+eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n// Imports\n\n\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, `body {\n  margin: 0;\n}\n\n.roles-page {\n  width: 100%;\n  max-width: 1000px;\n  margin: 0 auto;\n  padding: 16px;\n  box-sizing: border-box;\n}\n\n.roles-page h1 {\n  text-align: center;\n  margin-bottom: 24px;\n}\n\n.roles {\n  display: flex;\n  flex-direction: column;\n  gap: 20px;\n}\n\n.role-card {\n  width: 100%;\n  box-sizing: border-box;\n  border-radius: 16px;\n  overflow: hidden;\n  background: #ffffff;\n}\n\n.role-image {\n  display: block;\n  width: 100%;\n  height: auto;\n  aspect-ratio: 5/7;\n  object-fit: cover;\n}\n\n.role-content {\n  padding: 16px;\n}\n\n.role-content h2 {\n  margin: 0 0 8px;\n}\n\n.role-content p {\n  margin: 0;\n  line-height: 1.5;\n}\n\n@media (min-width: 700px) {\n  .roles {\n    display: grid;\n    grid-template-columns: repeat(2, 1fr);\n    gap: 24px;\n  }\n}\n@media (min-width: 1000px) {\n  .roles {\n    grid-template-columns: repeat(3, 1fr);\n  }\n}`, \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://react-app/./src/werewolf/Page.scss?./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js\n}");
 
 /***/ }),
 
@@ -7326,7 +7326,7 @@ eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpa
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _cardList_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./cardList.js */ \"./src/werewolf/cardList.js\");\n/* harmony import */ var _role_Constant_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./role/Constant.js */ \"./src/werewolf/role/Constant.js\");\n/* harmony import */ var _Page_scss__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./Page.scss */ \"./src/werewolf/Page.scss\");\n/* harmony import */ var _component_ColumnCard__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./component/ColumnCard */ \"./src/werewolf/component/ColumnCard.jsx\");\n\n\n\n\n\nvar villagerCards = _cardList_js__WEBPACK_IMPORTED_MODULE_1__[\"default\"].filter(function (card) {\n  return card.race === _role_Constant_js__WEBPACK_IMPORTED_MODULE_2__.RACE.VILLAGER;\n});\nvar werewolfCards = _cardList_js__WEBPACK_IMPORTED_MODULE_1__[\"default\"].filter(function (card) {\n  return card.race === _role_Constant_js__WEBPACK_IMPORTED_MODULE_2__.RACE.WEREWOLF;\n});\nvar WerewolfPage = function WerewolfPage() {\n  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(\"div\", {\n    className: \"card-container\"\n  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_component_ColumnCard__WEBPACK_IMPORTED_MODULE_4__[\"default\"], {\n    cards: villagerCards,\n    title: \"Villageois\"\n  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_component_ColumnCard__WEBPACK_IMPORTED_MODULE_4__[\"default\"], {\n    cards: werewolfCards,\n    title: \"Loups-Garous\"\n  }));\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (WerewolfPage);\n\n//# sourceURL=webpack://react-app/./src/werewolf/Page.jsx?\n}");
+eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _babel_runtime_helpers_slicedToArray__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/slicedToArray */ \"./node_modules/@babel/runtime/helpers/esm/slicedToArray.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _cardList_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./cardList.js */ \"./src/werewolf/cardList.js\");\n/* harmony import */ var _role_Constant_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./role/Constant.js */ \"./src/werewolf/role/Constant.js\");\n/* harmony import */ var _Page_scss__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./Page.scss */ \"./src/werewolf/Page.scss\");\n/* harmony import */ var _asset_images__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./asset/images */ \"./src/werewolf/asset/images.js\");\n/* harmony import */ var _component_ColumnCard__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./component/ColumnCard */ \"./src/werewolf/component/ColumnCard.jsx\");\n\n\n\n\n\n\n\nvar villagerCards = _cardList_js__WEBPACK_IMPORTED_MODULE_2__[\"default\"].filter(function (card) {\n  return card.race === _role_Constant_js__WEBPACK_IMPORTED_MODULE_3__.RACE.VILLAGER;\n});\nvar werewolfCards = _cardList_js__WEBPACK_IMPORTED_MODULE_2__[\"default\"].filter(function (card) {\n  return card.race === _role_Constant_js__WEBPACK_IMPORTED_MODULE_3__.RACE.WEREWOLF;\n});\nvar WerewolfPage = function WerewolfPage() {\n  var _useState = (0,react__WEBPACK_IMPORTED_MODULE_1__.useState)([]),\n    _useState2 = (0,_babel_runtime_helpers_slicedToArray__WEBPACK_IMPORTED_MODULE_0__[\"default\"])(_useState, 2),\n    cards = _useState2[0],\n    setCards = _useState2[1];\n  (0,react__WEBPACK_IMPORTED_MODULE_1__.useEffect)(function () {\n    fetch(\"https://script.google.com/macros/s/AKfycbwpTdSdug85nQoqpgd_7t5NZ5Nf8UVqiBxaa0FoO-0XjaiQVggOm9BijmQuC8SxX3gR/exec\").then(function (res) {\n      return res.json();\n    }).then(setCards);\n  }, []);\n  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement(\"main\", {\n    className: \"roles-page\"\n  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement(\"h1\", null, \"R\\xF4les\"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement(\"section\", {\n    className: \"roles\"\n  }, cards.map(function (role) {\n    return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement(\"article\", {\n      className: \"role-card\",\n      key: role.nom\n    }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement(\"img\", {\n      className: \"role-image\",\n      src: _asset_images__WEBPACK_IMPORTED_MODULE_5__[\"default\"][role.image],\n      alt: role.nom,\n      loading: \"lazy\"\n    }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement(\"div\", {\n      className: \"role-content\"\n    }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement(\"h2\", null, role.nom), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement(\"p\", null, role.description)));\n  })));\n\n  /**\n  return <div className={\"card-container\"}>\n      <ColumnCard cards={villagerCards} title={\"Villageois\"}/>\n      <ColumnCard cards={werewolfCards} title={\"Loups-Garous\"}/>\n  </div>;\n      */\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (WerewolfPage);\n\n//# sourceURL=webpack://react-app/./src/werewolf/Page.jsx?\n}");
 
 /***/ }),
 
@@ -7338,6 +7338,490 @@ eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpa
 
 "use strict";
 eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! !../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js */ \"./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js\");\n/* harmony import */ var _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_style_loader_dist_runtime_styleDomAPI_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! !../../node_modules/style-loader/dist/runtime/styleDomAPI.js */ \"./node_modules/style-loader/dist/runtime/styleDomAPI.js\");\n/* harmony import */ var _node_modules_style_loader_dist_runtime_styleDomAPI_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_styleDomAPI_js__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _node_modules_style_loader_dist_runtime_insertBySelector_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! !../../node_modules/style-loader/dist/runtime/insertBySelector.js */ \"./node_modules/style-loader/dist/runtime/insertBySelector.js\");\n/* harmony import */ var _node_modules_style_loader_dist_runtime_insertBySelector_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_insertBySelector_js__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var _node_modules_style_loader_dist_runtime_setAttributesWithoutAttributes_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! !../../node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js */ \"./node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js\");\n/* harmony import */ var _node_modules_style_loader_dist_runtime_setAttributesWithoutAttributes_js__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_setAttributesWithoutAttributes_js__WEBPACK_IMPORTED_MODULE_3__);\n/* harmony import */ var _node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! !../../node_modules/style-loader/dist/runtime/insertStyleElement.js */ \"./node_modules/style-loader/dist/runtime/insertStyleElement.js\");\n/* harmony import */ var _node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4__);\n/* harmony import */ var _node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! !../../node_modules/style-loader/dist/runtime/styleTagTransform.js */ \"./node_modules/style-loader/dist/runtime/styleTagTransform.js\");\n/* harmony import */ var _node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5__);\n/* harmony import */ var _node_modules_css_loader_dist_cjs_js_node_modules_sass_loader_dist_cjs_js_Page_scss__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! !!../../node_modules/css-loader/dist/cjs.js!../../node_modules/sass-loader/dist/cjs.js!./Page.scss */ \"./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/werewolf/Page.scss\");\n\n      \n      \n      \n      \n      \n      \n      \n      \n      \n\nvar options = {};\n\noptions.styleTagTransform = (_node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5___default());\noptions.setAttributes = (_node_modules_style_loader_dist_runtime_setAttributesWithoutAttributes_js__WEBPACK_IMPORTED_MODULE_3___default());\noptions.insert = _node_modules_style_loader_dist_runtime_insertBySelector_js__WEBPACK_IMPORTED_MODULE_2___default().bind(null, \"head\");\noptions.domAPI = (_node_modules_style_loader_dist_runtime_styleDomAPI_js__WEBPACK_IMPORTED_MODULE_1___default());\noptions.insertStyleElement = (_node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4___default());\n\nvar update = _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default()(_node_modules_css_loader_dist_cjs_js_node_modules_sass_loader_dist_cjs_js_Page_scss__WEBPACK_IMPORTED_MODULE_6__[\"default\"], options);\n\n\n\n\n       /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_node_modules_css_loader_dist_cjs_js_node_modules_sass_loader_dist_cjs_js_Page_scss__WEBPACK_IMPORTED_MODULE_6__[\"default\"] && _node_modules_css_loader_dist_cjs_js_node_modules_sass_loader_dist_cjs_js_Page_scss__WEBPACK_IMPORTED_MODULE_6__[\"default\"].locals ? _node_modules_css_loader_dist_cjs_js_node_modules_sass_loader_dist_cjs_js_Page_scss__WEBPACK_IMPORTED_MODULE_6__[\"default\"].locals : undefined);\n\n\n//# sourceURL=webpack://react-app/./src/werewolf/Page.scss?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Bete_Gevaudan.jpg":
+/*!**********************************************!*\
+  !*** ./src/werewolf/asset/Bete_Gevaudan.jpg ***!
+  \**********************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"b77eff8208befe92452e.jpg\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Bete_Gevaudan.jpg?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Boulangère.png":
+/*!*******************************************!*\
+  !*** ./src/werewolf/asset/Boulangère.png ***!
+  \*******************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"22f90b964fc07f16581e.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Boulang%C3%A8re.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Cupidon.png":
+/*!****************************************!*\
+  !*** ./src/werewolf/asset/Cupidon.png ***!
+  \****************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"9ef353b05c3a30013747.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Cupidon.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Dalloup.png":
+/*!****************************************!*\
+  !*** ./src/werewolf/asset/Dalloup.png ***!
+  \****************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"261f25518a69e0620a25.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Dalloup.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Dépressif.png":
+/*!******************************************!*\
+  !*** ./src/werewolf/asset/Dépressif.png ***!
+  \******************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"750e87955d6acdfd7ca7.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/D%C3%A9pressif.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Détective.png":
+/*!******************************************!*\
+  !*** ./src/werewolf/asset/Détective.png ***!
+  \******************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"206e7b609c451fc31458.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/D%C3%A9tective.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Garde.png":
+/*!**************************************!*\
+  !*** ./src/werewolf/asset/Garde.png ***!
+  \**************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"1ea9fb7e7be767d71b12.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Garde.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Grand_Méchant_Loup.png":
+/*!***************************************************!*\
+  !*** ./src/werewolf/asset/Grand_Méchant_Loup.png ***!
+  \***************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"fc3d55fa9d3ade0427d4.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Grand_M%C3%A9chant_Loup.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Hibou.png":
+/*!**************************************!*\
+  !*** ./src/werewolf/asset/Hibou.png ***!
+  \**************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"d41807e54da273b3e7d1.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Hibou.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Horloger.png":
+/*!*****************************************!*\
+  !*** ./src/werewolf/asset/Horloger.png ***!
+  \*****************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"93f89ad5ce6f3bdc00bf.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Horloger.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Infect_pere_des_loups.png":
+/*!******************************************************!*\
+  !*** ./src/werewolf/asset/Infect_pere_des_loups.png ***!
+  \******************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"43f44bcff759e8c176df.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Infect_pere_des_loups.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Inspectrice.png":
+/*!********************************************!*\
+  !*** ./src/werewolf/asset/Inspectrice.png ***!
+  \********************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"2f552de91c633edcbb08.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Inspectrice.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/L_élue.png":
+/*!***************************************!*\
+  !*** ./src/werewolf/asset/L_élue.png ***!
+  \***************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"a682ff1745d3eb228f58.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/L_%C3%A9lue.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Le_Chasseur.png":
+/*!********************************************!*\
+  !*** ./src/werewolf/asset/Le_Chasseur.png ***!
+  \********************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"f9b46309ae24555b663c.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Le_Chasseur.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Le_Chevalier_a_lepee-rouillee.png":
+/*!**************************************************************!*\
+  !*** ./src/werewolf/asset/Le_Chevalier_a_lepee-rouillee.png ***!
+  \**************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"45cd66137fb043aebf13.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Le_Chevalier_a_lepee-rouillee.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Le_Dresseur.png":
+/*!********************************************!*\
+  !*** ./src/werewolf/asset/Le_Dresseur.png ***!
+  \********************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"f48e6aa85a2078a3352e.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Le_Dresseur.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Le_Mentaliste.png":
+/*!**********************************************!*\
+  !*** ./src/werewolf/asset/Le_Mentaliste.png ***!
+  \**********************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"251ba96b7acdbbc389b2.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Le_Mentaliste.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Le_Montreur_d_ours.png":
+/*!***************************************************!*\
+  !*** ./src/werewolf/asset/Le_Montreur_d_ours.png ***!
+  \***************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"4ab2daea9d0c124ce14e.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Le_Montreur_d_ours.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Loup Alpha.png":
+/*!*******************************************!*\
+  !*** ./src/werewolf/asset/Loup Alpha.png ***!
+  \*******************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"b832ba5fa8762e33e279.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Loup_Alpha.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Loup Caméléon.png":
+/*!**********************************************!*\
+  !*** ./src/werewolf/asset/Loup Caméléon.png ***!
+  \**********************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"de892a2f68caff377675.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Loup_Cam%C3%A9l%C3%A9on.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Loup_Confus.png":
+/*!********************************************!*\
+  !*** ./src/werewolf/asset/Loup_Confus.png ***!
+  \********************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"ebb363a2825128e71aae.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Loup_Confus.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Loup_Devin.png":
+/*!*******************************************!*\
+  !*** ./src/werewolf/asset/Loup_Devin.png ***!
+  \*******************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"50ffd82f3652613f736c.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Loup_Devin.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Loup_Eclaireur.png":
+/*!***********************************************!*\
+  !*** ./src/werewolf/asset/Loup_Eclaireur.png ***!
+  \***********************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"e3e8192d0b2ce52548b8.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Loup_Eclaireur.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Loup_Farceur.png":
+/*!*********************************************!*\
+  !*** ./src/werewolf/asset/Loup_Farceur.png ***!
+  \*********************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"bb5d92e650cf645dd76d.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Loup_Farceur.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Loup_Perfide.png":
+/*!*********************************************!*\
+  !*** ./src/werewolf/asset/Loup_Perfide.png ***!
+  \*********************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"380400a8192150d1e488.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Loup_Perfide.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Loup_Somnambule.png":
+/*!************************************************!*\
+  !*** ./src/werewolf/asset/Loup_Somnambule.png ***!
+  \************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"56fc4c8e8e37056c2ac9.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Loup_Somnambule.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Louve_Garou.png":
+/*!********************************************!*\
+  !*** ./src/werewolf/asset/Louve_Garou.png ***!
+  \********************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"cff586b4fb9deef41878.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Louve_Garou.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Louve_Vengeresse.png":
+/*!*************************************************!*\
+  !*** ./src/werewolf/asset/Louve_Vengeresse.png ***!
+  \*************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"c8d9005844a6d8f1b39e.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Louve_Vengeresse.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Moine.png":
+/*!**************************************!*\
+  !*** ./src/werewolf/asset/Moine.png ***!
+  \**************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"066edddc2624a6c11945.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Moine.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Médium.png":
+/*!***************************************!*\
+  !*** ./src/werewolf/asset/Médium.png ***!
+  \***************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"686eaedce0581e4117d6.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/M%C3%A9dium.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Piloupface.png":
+/*!*******************************************!*\
+  !*** ./src/werewolf/asset/Piloupface.png ***!
+  \*******************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"c386f81949f8c495a4fa.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Piloupface.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Piégeur.png":
+/*!****************************************!*\
+  !*** ./src/werewolf/asset/Piégeur.png ***!
+  \****************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"f6fbeefe7bdde353cbf9.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Pi%C3%A9geur.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Princesse.png":
+/*!******************************************!*\
+  !*** ./src/werewolf/asset/Princesse.png ***!
+  \******************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"6fa0d9c644391806a359.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Princesse.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Prophète.png":
+/*!*****************************************!*\
+  !*** ./src/werewolf/asset/Prophète.png ***!
+  \*****************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"fa735440dc450609f52a.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Proph%C3%A8te.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Robespierre.png":
+/*!********************************************!*\
+  !*** ./src/werewolf/asset/Robespierre.png ***!
+  \********************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"f9f3c99ed6cef23df026.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Robespierre.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Shaman.png":
+/*!***************************************!*\
+  !*** ./src/werewolf/asset/Shaman.png ***!
+  \***************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"a494b42460a9eb4b9906.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Shaman.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Sorcière.jpg":
+/*!*****************************************!*\
+  !*** ./src/werewolf/asset/Sorcière.jpg ***!
+  \*****************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"c4ef8c0a58eac0f01d47.jpg\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Sorci%C3%A8re.jpg?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Squatteur.png":
+/*!******************************************!*\
+  !*** ./src/werewolf/asset/Squatteur.png ***!
+  \******************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"69c45458d2fd32717007.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Squatteur.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/SuperLoup.png":
+/*!******************************************!*\
+  !*** ./src/werewolf/asset/SuperLoup.png ***!
+  \******************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"b68e6f1193dedee5dccc.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/SuperLoup.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/SuperVillageoi.png":
+/*!***********************************************!*\
+  !*** ./src/werewolf/asset/SuperVillageoi.png ***!
+  \***********************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"10b8abaf8b9b1fa1e988.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/SuperVillageoi.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Villageois.png":
+/*!*******************************************!*\
+  !*** ./src/werewolf/asset/Villageois.png ***!
+  \*******************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"a4b9557e298a8997f312.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Villageois.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Villageoise.png":
+/*!********************************************!*\
+  !*** ./src/werewolf/asset/Villageoise.png ***!
+  \********************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"cbacc8eccdb013b129eb.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Villageoise.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/Voleur.png":
+/*!***************************************!*\
+  !*** ./src/werewolf/asset/Voleur.png ***!
+  \***************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+eval("{module.exports = __webpack_require__.p + \"8820e828a0dbb8c2b619.png\";\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/Voleur.png?\n}");
+
+/***/ }),
+
+/***/ "./src/werewolf/asset/images.js":
+/*!**************************************!*\
+  !*** ./src/werewolf/asset/images.js ***!
+  \**************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _Bete_Gevaudan_jpg__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Bete_Gevaudan.jpg */ \"./src/werewolf/asset/Bete_Gevaudan.jpg\");\n/* harmony import */ var _Boulang_re_png__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Boulangère.png */ \"./src/werewolf/asset/Boulangère.png\");\n/* harmony import */ var _Cupidon_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Cupidon.png */ \"./src/werewolf/asset/Cupidon.png\");\n/* harmony import */ var _Dalloup_png__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./Dalloup.png */ \"./src/werewolf/asset/Dalloup.png\");\n/* harmony import */ var _D_pressif_png__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./Dépressif.png */ \"./src/werewolf/asset/Dépressif.png\");\n/* harmony import */ var _D_tective_png__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./Détective.png */ \"./src/werewolf/asset/Détective.png\");\n/* harmony import */ var _Garde_png__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./Garde.png */ \"./src/werewolf/asset/Garde.png\");\n/* harmony import */ var _Grand_M_chant_Loup_png__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./Grand_Méchant_Loup.png */ \"./src/werewolf/asset/Grand_Méchant_Loup.png\");\n/* harmony import */ var _Hibou_png__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./Hibou.png */ \"./src/werewolf/asset/Hibou.png\");\n/* harmony import */ var _Horloger_png__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./Horloger.png */ \"./src/werewolf/asset/Horloger.png\");\n/* harmony import */ var _Infect_pere_des_loups_png__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./Infect_pere_des_loups.png */ \"./src/werewolf/asset/Infect_pere_des_loups.png\");\n/* harmony import */ var _Inspectrice_png__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./Inspectrice.png */ \"./src/werewolf/asset/Inspectrice.png\");\n/* harmony import */ var _Le_Chasseur_png__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./Le_Chasseur.png */ \"./src/werewolf/asset/Le_Chasseur.png\");\n/* harmony import */ var _Le_Chevalier_a_lepee_rouillee_png__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./Le_Chevalier_a_lepee-rouillee.png */ \"./src/werewolf/asset/Le_Chevalier_a_lepee-rouillee.png\");\n/* harmony import */ var _Le_Dresseur_png__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./Le_Dresseur.png */ \"./src/werewolf/asset/Le_Dresseur.png\");\n/* harmony import */ var _Le_Mentaliste_png__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./Le_Mentaliste.png */ \"./src/werewolf/asset/Le_Mentaliste.png\");\n/* harmony import */ var _Le_Montreur_d_ours_png__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./Le_Montreur_d_ours.png */ \"./src/werewolf/asset/Le_Montreur_d_ours.png\");\n/* harmony import */ var _Loup_Alpha_png__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ./Loup Alpha.png */ \"./src/werewolf/asset/Loup Alpha.png\");\n/* harmony import */ var _Loup_Cam_l_on_png__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ./Loup Caméléon.png */ \"./src/werewolf/asset/Loup Caméléon.png\");\n/* harmony import */ var _Loup_Confus_png__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ./Loup_Confus.png */ \"./src/werewolf/asset/Loup_Confus.png\");\n/* harmony import */ var _Loup_Devin_png__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! ./Loup_Devin.png */ \"./src/werewolf/asset/Loup_Devin.png\");\n/* harmony import */ var _Loup_Eclaireur_png__WEBPACK_IMPORTED_MODULE_21__ = __webpack_require__(/*! ./Loup_Eclaireur.png */ \"./src/werewolf/asset/Loup_Eclaireur.png\");\n/* harmony import */ var _Loup_Farceur_png__WEBPACK_IMPORTED_MODULE_22__ = __webpack_require__(/*! ./Loup_Farceur.png */ \"./src/werewolf/asset/Loup_Farceur.png\");\n/* harmony import */ var _Loup_Perfide_png__WEBPACK_IMPORTED_MODULE_23__ = __webpack_require__(/*! ./Loup_Perfide.png */ \"./src/werewolf/asset/Loup_Perfide.png\");\n/* harmony import */ var _Loup_Somnambule_png__WEBPACK_IMPORTED_MODULE_24__ = __webpack_require__(/*! ./Loup_Somnambule.png */ \"./src/werewolf/asset/Loup_Somnambule.png\");\n/* harmony import */ var _Louve_Garou_png__WEBPACK_IMPORTED_MODULE_25__ = __webpack_require__(/*! ./Louve_Garou.png */ \"./src/werewolf/asset/Louve_Garou.png\");\n/* harmony import */ var _Louve_Vengeresse_png__WEBPACK_IMPORTED_MODULE_26__ = __webpack_require__(/*! ./Louve_Vengeresse.png */ \"./src/werewolf/asset/Louve_Vengeresse.png\");\n/* harmony import */ var _L_lue_png__WEBPACK_IMPORTED_MODULE_27__ = __webpack_require__(/*! ./L_élue.png */ \"./src/werewolf/asset/L_élue.png\");\n/* harmony import */ var _Moine_png__WEBPACK_IMPORTED_MODULE_28__ = __webpack_require__(/*! ./Moine.png */ \"./src/werewolf/asset/Moine.png\");\n/* harmony import */ var _M_dium_png__WEBPACK_IMPORTED_MODULE_29__ = __webpack_require__(/*! ./Médium.png */ \"./src/werewolf/asset/Médium.png\");\n/* harmony import */ var _Piloupface_png__WEBPACK_IMPORTED_MODULE_30__ = __webpack_require__(/*! ./Piloupface.png */ \"./src/werewolf/asset/Piloupface.png\");\n/* harmony import */ var _Pi_geur_png__WEBPACK_IMPORTED_MODULE_31__ = __webpack_require__(/*! ./Piégeur.png */ \"./src/werewolf/asset/Piégeur.png\");\n/* harmony import */ var _Princesse_png__WEBPACK_IMPORTED_MODULE_32__ = __webpack_require__(/*! ./Princesse.png */ \"./src/werewolf/asset/Princesse.png\");\n/* harmony import */ var _Proph_te_png__WEBPACK_IMPORTED_MODULE_33__ = __webpack_require__(/*! ./Prophète.png */ \"./src/werewolf/asset/Prophète.png\");\n/* harmony import */ var _Robespierre_png__WEBPACK_IMPORTED_MODULE_34__ = __webpack_require__(/*! ./Robespierre.png */ \"./src/werewolf/asset/Robespierre.png\");\n/* harmony import */ var _Shaman_png__WEBPACK_IMPORTED_MODULE_35__ = __webpack_require__(/*! ./Shaman.png */ \"./src/werewolf/asset/Shaman.png\");\n/* harmony import */ var _Sorci_re_jpg__WEBPACK_IMPORTED_MODULE_36__ = __webpack_require__(/*! ./Sorcière.jpg */ \"./src/werewolf/asset/Sorcière.jpg\");\n/* harmony import */ var _Squatteur_png__WEBPACK_IMPORTED_MODULE_37__ = __webpack_require__(/*! ./Squatteur.png */ \"./src/werewolf/asset/Squatteur.png\");\n/* harmony import */ var _SuperLoup_png__WEBPACK_IMPORTED_MODULE_38__ = __webpack_require__(/*! ./SuperLoup.png */ \"./src/werewolf/asset/SuperLoup.png\");\n/* harmony import */ var _SuperVillageoi_png__WEBPACK_IMPORTED_MODULE_39__ = __webpack_require__(/*! ./SuperVillageoi.png */ \"./src/werewolf/asset/SuperVillageoi.png\");\n/* harmony import */ var _Villageois_png__WEBPACK_IMPORTED_MODULE_40__ = __webpack_require__(/*! ./Villageois.png */ \"./src/werewolf/asset/Villageois.png\");\n/* harmony import */ var _Villageoise_png__WEBPACK_IMPORTED_MODULE_41__ = __webpack_require__(/*! ./Villageoise.png */ \"./src/werewolf/asset/Villageoise.png\");\n/* harmony import */ var _Voleur_png__WEBPACK_IMPORTED_MODULE_42__ = __webpack_require__(/*! ./Voleur.png */ \"./src/werewolf/asset/Voleur.png\");\n// Fichier généré automatiquement\n// Ne pas modifier manuellement\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nvar images = {\n  \"Bete_Gevaudan.jpg\": _Bete_Gevaudan_jpg__WEBPACK_IMPORTED_MODULE_0__,\n  \"Boulangère.png\": _Boulang_re_png__WEBPACK_IMPORTED_MODULE_1__,\n  \"Cupidon.png\": _Cupidon_png__WEBPACK_IMPORTED_MODULE_2__,\n  \"Dalloup.png\": _Dalloup_png__WEBPACK_IMPORTED_MODULE_3__,\n  \"Dépressif.png\": _D_pressif_png__WEBPACK_IMPORTED_MODULE_4__,\n  \"Détective.png\": _D_tective_png__WEBPACK_IMPORTED_MODULE_5__,\n  \"Garde.png\": _Garde_png__WEBPACK_IMPORTED_MODULE_6__,\n  \"Grand_Méchant_Loup.png\": _Grand_M_chant_Loup_png__WEBPACK_IMPORTED_MODULE_7__,\n  \"Hibou.png\": _Hibou_png__WEBPACK_IMPORTED_MODULE_8__,\n  \"Horloger.png\": _Horloger_png__WEBPACK_IMPORTED_MODULE_9__,\n  \"Infect_pere_des_loups.png\": _Infect_pere_des_loups_png__WEBPACK_IMPORTED_MODULE_10__,\n  \"Inspectrice.png\": _Inspectrice_png__WEBPACK_IMPORTED_MODULE_11__,\n  \"Le_Chasseur.png\": _Le_Chasseur_png__WEBPACK_IMPORTED_MODULE_12__,\n  \"Le_Chevalier_a_lepee-rouillee.png\": _Le_Chevalier_a_lepee_rouillee_png__WEBPACK_IMPORTED_MODULE_13__,\n  \"Le_Dresseur.png\": _Le_Dresseur_png__WEBPACK_IMPORTED_MODULE_14__,\n  \"Le_Mentaliste.png\": _Le_Mentaliste_png__WEBPACK_IMPORTED_MODULE_15__,\n  \"Le_Montreur_d_ours.png\": _Le_Montreur_d_ours_png__WEBPACK_IMPORTED_MODULE_16__,\n  \"Loup Alpha.png\": _Loup_Alpha_png__WEBPACK_IMPORTED_MODULE_17__,\n  \"Loup Caméléon.png\": _Loup_Cam_l_on_png__WEBPACK_IMPORTED_MODULE_18__,\n  \"Loup_Confus.png\": _Loup_Confus_png__WEBPACK_IMPORTED_MODULE_19__,\n  \"Loup_Devin.png\": _Loup_Devin_png__WEBPACK_IMPORTED_MODULE_20__,\n  \"Loup_Eclaireur.png\": _Loup_Eclaireur_png__WEBPACK_IMPORTED_MODULE_21__,\n  \"Loup_Farceur.png\": _Loup_Farceur_png__WEBPACK_IMPORTED_MODULE_22__,\n  \"Loup_Perfide.png\": _Loup_Perfide_png__WEBPACK_IMPORTED_MODULE_23__,\n  \"Loup_Somnambule.png\": _Loup_Somnambule_png__WEBPACK_IMPORTED_MODULE_24__,\n  \"Louve_Garou.png\": _Louve_Garou_png__WEBPACK_IMPORTED_MODULE_25__,\n  \"Louve_Vengeresse.png\": _Louve_Vengeresse_png__WEBPACK_IMPORTED_MODULE_26__,\n  \"L_élue.png\": _L_lue_png__WEBPACK_IMPORTED_MODULE_27__,\n  \"Moine.png\": _Moine_png__WEBPACK_IMPORTED_MODULE_28__,\n  \"Médium.png\": _M_dium_png__WEBPACK_IMPORTED_MODULE_29__,\n  \"Piloupface.png\": _Piloupface_png__WEBPACK_IMPORTED_MODULE_30__,\n  \"Piégeur.png\": _Pi_geur_png__WEBPACK_IMPORTED_MODULE_31__,\n  \"Princesse.png\": _Princesse_png__WEBPACK_IMPORTED_MODULE_32__,\n  \"Prophète.png\": _Proph_te_png__WEBPACK_IMPORTED_MODULE_33__,\n  \"Robespierre.png\": _Robespierre_png__WEBPACK_IMPORTED_MODULE_34__,\n  \"Shaman.png\": _Shaman_png__WEBPACK_IMPORTED_MODULE_35__,\n  \"Sorcière.jpg\": _Sorci_re_jpg__WEBPACK_IMPORTED_MODULE_36__,\n  \"Squatteur.png\": _Squatteur_png__WEBPACK_IMPORTED_MODULE_37__,\n  \"SuperLoup.png\": _SuperLoup_png__WEBPACK_IMPORTED_MODULE_38__,\n  \"SuperVillageoi.png\": _SuperVillageoi_png__WEBPACK_IMPORTED_MODULE_39__,\n  \"Villageois.png\": _Villageois_png__WEBPACK_IMPORTED_MODULE_40__,\n  \"Villageoise.png\": _Villageoise_png__WEBPACK_IMPORTED_MODULE_41__,\n  \"Voleur.png\": _Voleur_png__WEBPACK_IMPORTED_MODULE_42__\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (images);\n\n//# sourceURL=webpack://react-app/./src/werewolf/asset/images.js?\n}");
 
 /***/ }),
 
